@@ -156,6 +156,8 @@ def render(items: list[dict[str, Any]]) -> str:
     return f"""<!doctype html>
 <html lang="es">
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2551421392442499"
+     crossorigin="anonymous"></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Resumen diario de fuentes públicas</title>
